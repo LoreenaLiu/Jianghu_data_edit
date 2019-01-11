@@ -1,0 +1,30 @@
+ insert into hobby_business_warehouse (city_id, user_id, category_id,img_url,push_flag) 
+ values (1，5480, 34, 'hobbies_image/zank/2.jpeg' ,0);
+
+  insert into hobby_business_warehouse (city_id, user_id, category_id,img_url,push_flag) 
+ values (3，5480, 34, 'hobbies_image/zank/4.jpeg' ,0);
+
+insert into hobby_business_warehouse (city_id, user_id, category_id,img_url,push_flag) 
+ values (5，5480, 34, 'hobbies_image/zank/6.jpeg' ,0);
+
+insert into hobby_business_warehouse (city_id, user_id, category_id,img_url,push_flag) 
+ values (7，5480, 34, 'hobbies_image/zank/8.jpeg' ,0);
+
+
+ insert into hobby_business_warehouse (city_id, user_id, category_id,img_url,push_flag) 
+ values (9，5480, 34, 'hobbies_image/zank/10.jpeg' ,0);
+
+
+
+
+ insert into hobby_business_warehouse (city_id, user_id, category_id,img_url,push_flag) 
+ values (1,5480,34, 'hobbies_image/zank/5.jpeg' ,0);
+
+
+
+
+
+
+
+
+
